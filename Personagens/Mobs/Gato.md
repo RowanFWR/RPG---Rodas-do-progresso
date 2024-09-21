@@ -1,0 +1,1 @@
+Gato que falou com [[Anton]], dizendo que viu 3 homens, 3 orcs e 1 autômato roubando a loja [[Relógios Tem, pô]].

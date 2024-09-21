@@ -1,0 +1,1 @@
+Dois dos três kobolds encontrados dentro da fábrica, companheiros temporários graças a [[Kerval]].

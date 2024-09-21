@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "69283111af216439",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d918576c759ac1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d464ea1ef21aa30b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party notes/Sessão 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf3d7eefcbf89ec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "51b9ade9e0d181c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00b361bb744b0773",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ab32b9d878a4e97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3df58b7bf36438a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e02631ff905dfcdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "271b5b0a07ffa5d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51007141c55462b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Party notes/Sessão 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32dbe7cef1a95353",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Party notes/Sessão 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ab64a4549d73c11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "835df1f4e6d2d001",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Party notes/Sessão 1.md"
+              }
+            }
+          },
+          {
+            "id": "86d6ad4280167655",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "86d6ad4280167655",
+  "lastOpenFiles": [
+    "Party notes/Sessão 9.md",
+    "Party notes/Sessão 1.md",
+    "Personagens/Players/Vaughn.md",
+    "Party notes/Sessão 6.md",
+    "Party notes/Sessão 5.md",
+    "Party notes/Sessão 4.md",
+    "Party notes/Sessão 3.md",
+    "Party notes/Sessão 2.md",
+    "Party notes/Party Notes.md",
+    "Personagens/Players/Giggs.md",
+    "Personagens/voz tenebrosa.md",
+    "Itens/Pedras de alma.md",
+    "Itens/Documentos.md",
+    "Itens/colar.md",
+    "Locais/Shadowfell.md",
+    "Itens/Relógio da torre.md",
+    "Itens/Vela que nunca apaga.md",
+    "Itens/Páginas das anotações dos casos.md",
+    "Itens/Mochila de carga.md",
+    "Itens/Imagens itens/bag-of-holding-222.jpg",
+    "Itens/Espelho prateado sujo.md",
+    "Itens/Carta.md",
+    "Itens/Anotações.md",
+    "Itens/Amuleto.md",
+    "Itens/Alternador arcano.md",
+    "Personagens/Players/Archis.md",
+    "Personagens/Players/Imagens personagens player/FotoVaughn.jpg",
+    "Personagens/Players/Imagens personagens player/FotoAnton.jpg",
+    "Personagens/Players/Imagens personagens player/FotoArchis.jpg",
+    "Personagens/Players/Anton.md",
+    "Sem título.canvas",
+    "Personagens/Players/Imagens personagens player/FotoKerval.jpg",
+    "Personagens/Players/Imagens personagens player/FotoGiggs.jpg",
+    "Personagens/Players/Imagens personagens player/Ref.SheetGiggs.jpg",
+    "Personagens/Players/Imagens personagens player/Giggs screenshot.png",
+    "Magias",
+    "Personagens/Mobs",
+    "Locais/Plano Material",
+    "Party notes/Sessão 1",
+    "Party notes",
+    "Locais/Plano Material/Mytos",
+    "Locais/Plano Material/Mytos/Elliktos",
+    "Party notes/Backstorys",
+    "Personagens/Players/Imagens personagens player",
+    "Personagens/Imagens Personagens",
+    "Itens/Imagens itens/Vela que nunca apaga.jpg",
+    "Itens/photo_4945420439665095954_y.jpg"
+  ]
+}

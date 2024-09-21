@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Personagens  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Locais  ",
+      "color": {
+        "a": 1,
+        "rgb": 3198779
+      }
+    },
+    {
+      "query": "path:Magias  ",
+      "color": {
+        "a": 1,
+        "rgb": 3230639
+      }
+    },
+    {
+      "query": "path:\"Party notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9606802
+      }
+    },
+    {
+      "query": "path:Itens  ",
+      "color": {
+        "a": 1,
+        "rgb": 13917398
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.99322916666667,
+  "lineSizeMultiplier": 0.97179166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.458333333333333,
+  "repelStrength": 5.3125,
+  "linkStrength": 0.458333333333333,
+  "linkDistance": 30,
+  "scale": 0.7132754626224537,
+  "close": false
+}

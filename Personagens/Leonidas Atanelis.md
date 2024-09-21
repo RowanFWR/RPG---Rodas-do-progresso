@@ -1,0 +1,1 @@
+Suposto comprador/vendedor de itens mágicos na cidade de [[Emachios]]. Possivelmente comprador dos itens mágicos de [[Vaughn]] e [[Kerval]].

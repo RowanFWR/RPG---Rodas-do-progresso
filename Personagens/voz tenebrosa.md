@@ -1,0 +1,1 @@
+Uma voz assustadora vinda do nada assim que o grupo entrou em [[Shadowfell]], ela parecia conhecer [[Giggs]] e [[Vaughn]].

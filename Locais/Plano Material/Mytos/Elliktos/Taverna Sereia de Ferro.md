@@ -1,0 +1,2 @@
+#loja #local #safepoint 
+Taverna em uma área mais rica da cidade de [[Elliktos (Cidade)]], onde ocorreu um combate contra os capangas de [[Arno Sauer]] e onde ficou conhecido como ponto de encontro do grupo após isso.

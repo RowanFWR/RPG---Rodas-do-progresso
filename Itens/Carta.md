@@ -1,0 +1,2 @@
+#item #comum 
+Carta vinda do próprio [[Lord Karl Sternhell]], convidando a todos os #Player ([[Giggs]], [[Kerval]], [[Vaughn]], [[Anton]] e [[Archis]]) para se reunirem no [[Hotel Ànesias]] para uma reunião.

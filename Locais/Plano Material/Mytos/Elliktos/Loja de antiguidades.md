@@ -1,0 +1,2 @@
+#local #shadowfell #elliktos #loja
+Loja de antiguidades onde [[Giggs]] encontrou o [[Espelho prateado sujo]] no porão. Mencionado apenas na #Backstories de [[Giggs]] e [[Vaughn]] chamada [[Descoberta mágica]].

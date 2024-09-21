@@ -1,0 +1,16 @@
+- Tivemos uma conversa inicial com os 3 ministros e Sternhel.
+- Houve uma entrevista entre todos, Sternhel acredita que roubamos a fábrica.
+- Stratiedis ajudou a gente a passar como pessoas inocentes
+- Sternhell decidiu deixar a gente seguir com a missão, Petropolou não deixou a gente voltar sem clérigos.
+- Ao voltar para o Pub, entramos em contato com Stratiedis, passamos tudo que sabemos
+- Infelizmente não foi o suficiente para incriminar Sternhell
+- Pensamos em não desligar o gerador ainda, mas precisamos de mais provas
+- Stratiedis recomendou sair da cidade
+- Kerval e Anton foram p a igreja
+- Giggs, Vaughn, e Archis foram para o AP deles
+- Havia capangas na porta do nosso AP
+- O nosso AP foi revirado, felizmente, os documentos mais importantes estavam conosco
+- Kerval e Anton encontraram com a Marietta, Marietta encontrou com o irmão dele, o qual viu o Markos
+- Fomos para a Caravana das Corujas
+- Estamos repensando o que fazer
+- Apareceu o irmão da Marietta

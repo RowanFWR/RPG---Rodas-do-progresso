@@ -1,0 +1,2 @@
+#local #cidade
+Cidade onde se localiza [[Fábrica do Lord Karl Sternhell]], [[Apartamento do Giggs e do Vaungh]], [[Docas de Elliktos]], [[Mecânica Sauer]], [[Loja de antiguidades]], [[Relógios Tem, pô]], [[Taverna Sereia de Ferro]], [[Taverna Martelão Elétrico]].

@@ -1,0 +1,1 @@
+Autômatos criados por [[Markos Hondrakos]] para trabalhar na [[Fábrica do Lord Karl Sternhell]] e que supostamente estavam atacando a todos segundo [[Lord Karl Sternhell]]. Más, foi constatado pelo grupo que eles só atacavam os intrusos e não os #funcionários-da-fábrica que estivessem uniformizados.
